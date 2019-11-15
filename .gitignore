@@ -3,5 +3,4 @@ config.js
 ngrok
 *.DS_Store
 *.vscode
-package_lock.json
 
