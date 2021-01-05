@@ -25,7 +25,7 @@
     "node-fetch": "^2.6.0"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "uniqid": "^5.0.3",
     "nodemon": "^1.18.4"
